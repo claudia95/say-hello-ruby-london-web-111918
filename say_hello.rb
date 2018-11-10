@@ -3,5 +3,7 @@
 
 def say_hello(name) 
   if name === nil 
-    puts `
+    puts "Hello Ruby Programmer!"
+  else 
+    puts "Hello"
   
